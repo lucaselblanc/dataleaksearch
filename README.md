@@ -1,4 +1,4 @@
-# Data Leak Search
+# Data Leak Search for android
 Contains a small osint toolkit, includes data leak search and hash cracking.
 
 ● Has a hash cracking tool for the formats: MD5, SHA1, SHA256, MySQL4.1/5, NTLM, LM, RipeMD160, RipeMD256 and SHA224, uses dictionary/rules, brute force, dictionary + brute force with mask, dictionary + brute force without mask techniques and rainbow-table.
