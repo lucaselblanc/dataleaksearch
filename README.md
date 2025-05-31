@@ -17,20 +17,24 @@ Contains a small osint toolkit, includes data leak search and hash cracking.
 - With Data Leak Search, you will have easy access to the information you need to keep your data safe and prevent it from falling into the wrong hands. Stay secure right now, your protector against personal data leaks.
 
 
-# Osint Search:
+# Osint Search
 
-### Data Leak Search: ## BreachDirectory API
+### Data Leak Search: 
+  ## BreachDirectory API
 
-### Instagram Scraping: ## Instagram API
+### Instagram Scraping: 
+  ## Instagram API
 
 ---
 
-# Hash Cracking Tool:
+# Hash Cracking Tool
 
 ## H/s Benchmark:
 
-### Device: Redmi Note 9S | 6GB Ram | Octa-Core Max 2.32 GHz | Android 12
+### Device: 
+  Redmi Note 9S | 6GB Ram | Octa-Core Max 2.32 GHz | Android 12
 
+---
 
 *NTLM Hashes Per Second*: 355.000 *(Average)*
 
