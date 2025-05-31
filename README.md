@@ -30,12 +30,11 @@ Contains a small osint toolkit, includes data leak search and hash cracking.
 
 # Hash Cracking Tool
 
-## H/s Benchmark:
-
 ### Device: 
   Redmi Note 9S | 6GB Ram | Octa-Core Max 2.32 GHz | Android 12
 
----
+## H/s Benchmark:
+
 
 *NTLM Hashes Per Second*: 355.000 *(Average)*
 
