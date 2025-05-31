@@ -16,6 +16,7 @@ Contains a small osint toolkit, includes data leak search and hash cracking.
 
 - With Data Leak Search, you will have easy access to the information you need to keep your data safe and prevent it from falling into the wrong hands. Stay secure right now, your protector against personal data leaks.
 
+---
 
 # Osint Search
 
