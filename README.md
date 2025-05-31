@@ -70,10 +70,20 @@ Contains a small osint toolkit, includes data leak search and hash cracking.
 
 
 Deca-Core: Of the 10 physical Cores, 5 will be used in threads.
+
+
 Octa-Core: Of the 8 physical Cores, 4 will be used in threads.
+
+
 Hexa-Core: Of the 6 physical Cores, 3 will be used in threads.
+
+
 Quad-Core: Of the 4 physical Cores, 2 will be used in threads.
+
+
 Dual-Core: Of the 2 physical Cores, 1 will be used in threads.
+
+
 Single-Core: The only available core will be used in threads.
 
 ---
