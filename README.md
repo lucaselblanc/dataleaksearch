@@ -40,6 +40,6 @@ Contains a small osint toolkit, includes data leak search and hash cracking.
 
 *LM Hashes Per Second*: 105.000 *(Average)*
 
--
+---
 
 Playstore Link: https://play.google.com/store/apps/details?id=com.NoClipStudio.DataBaseSearch
