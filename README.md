@@ -19,15 +19,15 @@ Contains a small osint toolkit, includes data leak search and hash cracking.
 
 # Osint Search:
 
-### Data Leak Search: BreachDirectory API
+### Data Leak Search: ## BreachDirectory API
 
-### Instagram Scraping: Instagram API
+### Instagram Scraping: ## Instagram API
 
 ---
 
 # Hash Cracking Tool:
 
-##H/s Benchmark:
+## H/s Benchmark:
 
 ### Device: Redmi Note 9S | 6GB Ram | Octa-Core Max 2.32 GHz | Android 12
 
