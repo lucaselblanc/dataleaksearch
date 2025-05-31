@@ -1,7 +1,6 @@
 # Data Leak Search for android
 Contains a small osint toolkit, includes data leak search and hash cracking.
 
----
 
 - Has a hash cracking tool for the formats: MD5, SHA1, SHA256, MySQL4.1/5, NTLM, LM, RipeMD160, RipeMD256 and SHA224, uses dictionary/rules, brute force, dictionary + brute force with mask, dictionary + brute force without mask techniques and rainbow-table.
 
@@ -17,12 +16,11 @@ Contains a small osint toolkit, includes data leak search and hash cracking.
 
 - With Data Leak Search, you will have easy access to the information you need to keep your data safe and prevent it from falling into the wrong hands. Stay secure right now, your protector against personal data leaks.
 
----
 
 # Benchmark:
 
 ### Device: Redmi Note 9S | 6GB Ram | Octa-Core Max 2.32 GHz | Android 12
----
+
 
 *NTLM Hashes Per Second*: 355.000 *(Average)*
 
@@ -42,6 +40,5 @@ Contains a small osint toolkit, includes data leak search and hash cracking.
 
 *LM Hashes Per Second*: 105.000 *(Average)*
 
----
 
 Playstore Link: https://play.google.com/store/apps/details?id=com.NoClipStudio.DataBaseSearch
