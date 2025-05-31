@@ -61,6 +61,8 @@ Contains a small osint toolkit, includes data leak search and hash cracking.
 
   Attention, this tool uses brute force techniques using the Android CPU, brute force can be extremely time consuming depending on the complexity of the password and also the processor of your device, if you want to have superior cracking performance, I recommend using Hashcat for computer or Hash Suite Droid which uses the Android GPU instead of the CPU, this tool is in the testing phase, thank you!.
 
+---
+
 ## CPU:
 
 
