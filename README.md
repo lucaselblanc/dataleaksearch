@@ -20,10 +20,10 @@ Contains a small osint toolkit, includes data leak search and hash cracking.
 # Osint Search
 
 ### Data Leak Search: 
-  ## BreachDirectory API
+  BreachDirectory API
 
 ### Instagram Scraping: 
-  ## Instagram API
+  Instagram API
 
 ---
 
